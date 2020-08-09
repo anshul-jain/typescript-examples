@@ -9,7 +9,7 @@ console.log(employee.name);
 const employee1: object = {
     name: 'ram',
     age: 20
-}
+};
 
 // Type 3, define the structure by your self
 let employee2: {
@@ -18,4 +18,4 @@ let employee2: {
 } = {
     name: 'ram',
     age: 20
-}
+};
